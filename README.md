@@ -40,3 +40,46 @@ Documentaremos os requisitos funcionais e não funcionais de forma precisa, incl
 Organizaremos essa documentação em um formato estruturado para facilitar a compreensão e a revisão por parte da equipe de desenvolvimento e dos stakeholders.
 
 Com base nessas etapas, estamos prontos para prosseguir com o projeto de desenvolvimento do software da cafeteria, garantindo que todos os requisitos sejam compreendidos e documentados de maneira adequada.
+
+### Requisitos Funcionais:
+
+1. *Registro de Clientes:*
+   - O sistema deve permitir que novos clientes se registrem, fornecendo informações básicas como nome, e-mail e telefone.
+
+2. *Realização de Pedidos:*
+   - Os clientes devem poder visualizar o menu completo da cafeteria no aplicativo ou terminal.
+   - Deve ser possível adicionar itens ao carrinho de compras, especificando opções de personalização (por exemplo, tamanho, ingredientes extras).
+   - Os clientes devem ter a opção de revisar e editar seus pedidos antes de finalizá-los.
+
+3. *Gestão de Pedidos:*
+   - Os funcionários devem receber notificações instantâneas de novos pedidos feitos pelos clientes.
+   - Deve existir uma interface para os funcionários acompanharem o status dos pedidos em preparação, prontos para entrega e entregues.
+
+4. *Sistema de Pagamento:*
+   - O software deve suportar diferentes métodos de pagamento, como cartão de crédito, débito e pagamento móvel.
+   - Deve ser possível integrar o sistema com dispositivos de pagamento existentes na cafeteria.
+
+5. *Programa de Fidelidade:*
+   - O sistema deve registrar as compras dos clientes e atribuir pontos de fidelidade com base nos valores gastos.
+   - Os clientes devem poder resgatar pontos por descontos em futuras compras ou por itens gratuitos.
+
+6. *Gestão de Estoque:*
+   - O sistema deve atualizar automaticamente o estoque de itens disponíveis sempre que um pedido for feito e concluído.
+   - Os funcionários devem receber alertas quando os níveis de estoque estiverem baixos, facilitando a reposição de produtos.
+
+### Requisitos Não Funcionais:
+
+1. *Desempenho:*
+   - O sistema deve ser capaz de lidar com um grande volume de pedidos simultâneos durante os horários de pico, garantindo tempos de resposta rápidos.
+
+2. *Segurança:*
+   - Todas as transações financeiras devem ser protegidas por criptografia para garantir a segurança dos dados do cliente.
+   - O acesso ao sistema deve ser protegido por autenticação de usuário, com diferentes níveis de permissões para funcionários e administradores.
+
+3. *Usabilidade:*
+   - A interface do usuário deve ser intuitiva e fácil de usar, tanto para clientes quanto para funcionários da cafeteria.
+   - O sistema deve ser responsivo e compatível com dispositivos móveis, garantindo uma experiência consistente em diferentes plataformas.
+
+4. *Disponibilidade:*
+   - O sistema deve estar disponível 24 horas por dia, 7 dias por semana, para que os clientes possam fazer pedidos a qualquer momento.
+
