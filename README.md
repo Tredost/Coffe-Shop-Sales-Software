@@ -1,10 +1,6 @@
 # Coffe Shop Sales Software
 
 
-
-
-# <strong> Integrantes :</strong>
-
 Aluno | Matrícula
 --------------------------------|---------------------------
 Brenda Mendes Araujo | 202209150008
