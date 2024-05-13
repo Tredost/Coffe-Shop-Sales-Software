@@ -6,7 +6,7 @@ Aluno | Matrícula
 Brenda Mendes Araujo | 202209150008
 Ian Esteves Amaral Francisco | 202302937314
 
-# ​<strong>FERRAMENTAS DO PROJETO:</strong>
+### Ferramentas do Projeto:
 
 <p>
   Repositório: GitHub<br>
