@@ -1,7 +1,15 @@
 # Coffe Shop Sales Software
 
-Brenda Mendes Araujo - 202209150008
-Ian Esteves Amaral Francisco - 202302937314
+
+
+
+# <strong> Integrantes :</strong>
+
+Aluno | Matrícula
+--------------------------------|---------------------------
+Brenda Mendes Araujo | 202209150008
+Ian Esteves Amaral Francisco | 202302937314.
+
 
 ### 1. Entendimento do Problema e Definição de Escopo:
 
