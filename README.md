@@ -43,7 +43,7 @@ Selecionaremos a técnica de descrição de requisitos "Histórias de Usuário c
 
 Documentaremos os requisitos funcionais e não funcionais de forma precisa, incluindo detalhes sobre a interação do usuário com o sistema, requisitos de desempenho, segurança e usabilidade.
 
-Organizaremos essa documentação em um formato estruturado para facilitar a compreensão e a revisão por parte da equipe de desenvolvimento e dos stakeholders.
+Organizaremos essa documentação em um formato estruturado para facilitar a compreensão e a revisão por parte da equipe de desenvolvimento.
 
 Com base nessas etapas, estamos prontos para prosseguir com o projeto de desenvolvimento do software da cafeteria, garantindo que todos os requisitos sejam compreendidos e documentados de maneira adequada.
 
@@ -88,6 +88,45 @@ Com base nessas etapas, estamos prontos para prosseguir com o projeto de desenvo
 
 4. *Disponibilidade:*
    - O sistema deve estar disponível 24 horas por dia, 7 dias por semana, para que os clientes possam fazer pedidos a qualquer momento.
+
+### Histórias de Usuário:
+
+#### Registro de Clientes:
+1. Como um novo cliente, desejo me registrar no sistema da cafeteria, fornecendo informações básicas como nome, e-mail e telefone, para poder fazer pedidos e participar do programa de fidelidade.
+
+#### Realização de Pedidos:
+2. Como cliente, desejo visualizar o menu completo da cafeteria no aplicativo ou terminal, para poder escolher os itens que desejo comprar.
+3. Como cliente, desejo adicionar itens ao meu carrinho de compras, especificando opções de personalização, como tamanho e ingredientes extras, para que meu pedido seja preparado de acordo com minhas preferências.
+4. Como cliente, desejo revisar e editar meus pedidos antes de finalizá-los, para garantir que tudo esteja correto antes de confirmar a compra.
+
+#### Gestão de Pedidos:
+5. Como funcionário, desejo receber notificações instantâneas de novos pedidos feitos pelos clientes, para que eu possa começar a prepará-los imediatamente.
+6. Como funcionário, desejo ter uma interface onde possa acompanhar o status dos pedidos, desde o momento em que são feitos até serem entregues aos clientes, para garantir uma gestão eficiente do fluxo de trabalho na cafeteria.
+
+#### Sistema de Pagamento:
+7. Como cliente, desejo ter a opção de pagar minha compra utilizando diferentes métodos, como cartão de crédito, débito e pagamento móvel, para escolher a forma mais conveniente para mim.
+8. Como proprietário da cafeteria, desejo integrar o sistema de pagamento com dispositivos existentes na cafeteria, para facilitar e agilizar o processo de pagamento para os clientes.
+
+#### Programa de Fidelidade:
+9. Como cliente, desejo que minhas compras sejam registradas no sistema e que pontos de fidelidade sejam atribuídos com base nos valores gastos, para poder receber descontos ou itens gratuitos no futuro.
+10. Como cliente, desejo poder resgatar os pontos acumulados por descontos em futuras compras ou por itens gratuitos, como forma de recompensa pela minha fidelidade à cafeteria.
+
+#### Gestão de Estoque:
+11. Como funcionário, desejo que o sistema atualize automaticamente o estoque de itens disponíveis sempre que um pedido for feito e concluído, para garantir que sempre tenhamos os produtos necessários em estoque.
+12. Como funcionário, desejo receber alertas quando os níveis de estoque estiverem baixos, para facilitar a reposição de produtos e evitar a falta de itens essenciais na cafeteria.
+
+### Requisitos Não Funcionais:
+#### Desempenho:
+1. Como cliente, espero que o sistema seja capaz de lidar com um grande volume de pedidos simultâneos durante os horários de pico, garantindo tempos de resposta rápidos para que minha experiência de compra não seja afetada.
+
+#### Segurança:
+2. Como cliente, espero que todas as transações financeiras sejam protegidas por criptografia, garantindo a segurança dos meus dados pessoais e financeiros.
+
+#### Usabilidade:
+3. Como cliente e funcionário, espero que a interface do usuário seja intuitiva e fácil de usar, independentemente do dispositivo que estou utilizando, para uma experiência consistente e agradável.
+
+#### Disponibilidade:
+4. Como cliente, espero que o sistema esteja disponível 24 horas por dia, 7 dias por semana, para que eu possa fazer pedidos a qualquer momento, sem restrições de horário.
 
 ### Autores:
 
