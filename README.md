@@ -1,11 +1,5 @@
 # Coffe Shop Sales Software
 
-
-Aluno | Matrícula
---------------------------------|---------------------------
-Brenda Mendes Araujo | 202209150008
-Ian Esteves Amaral Francisco | 202302937314
-
 ### Ferramentas do Projeto:
 
 <p>
@@ -42,8 +36,6 @@ Organizaremos essas definições em um documento para referência e revisão con
 ### 2. Levantamento de Requisitos:
 
 Para coletar os requisitos dos stakeholders, utilizaremos uma combinação de entrevistas e workshops. As entrevistas serão conduzidas com os clientes e funcionários da cafeteria para entender suas necessidades e expectativas em relação ao software. Os workshops serão realizados com a equipe de desenvolvimento e os stakeholders principais para identificar requisitos técnicos e operacionais.
-
-Apresentaremos um relato detalhado das interações com os stakeholders, incluindo datas, participantes e tópicos discutidos, para garantir transparência e colaboração ao longo do processo de levantamento de requisitos.
 
 ### 3. Documentação de Requisitos:
 
@@ -97,3 +89,9 @@ Com base nessas etapas, estamos prontos para prosseguir com o projeto de desenvo
 4. *Disponibilidade:*
    - O sistema deve estar disponível 24 horas por dia, 7 dias por semana, para que os clientes possam fazer pedidos a qualquer momento.
 
+### Autores:
+
+Aluno | Matrícula
+--------------------------------|---------------------------
+Brenda Mendes Araujo | 202209150008
+Ian Esteves Amaral Francisco | 202302937314
