@@ -2,11 +2,11 @@
 
 ### Ferramentas do Projeto:
 
-<p>
-  Repositório: GitHub<br>
-  Comunicação: Discord e WhatsApp<br>
-  Metodologia aplicada: <a href="https://www.notion.so/3017a548d79547968404dce96924ae1f?v=64667978a28c4eebbc316c552e049f75&pvs=4">Notion</a> e reuniões semanais<br>
-</p>
+--------------------------------|---------------------------
+  Repositório: | GitHub<br>
+  Comunicação: | Discord e WhatsApp<br>
+  Metodologia aplicada: | <a href="https://www.notion.so/3017a548d79547968404dce96924ae1f?v=64667978a28c4eebbc316c552e049f75&pvs=4">Notion</a> e reuniões semanais<br>
+  
 
 
 ### Sistema Coffe Shop
