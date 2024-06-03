@@ -8,6 +8,20 @@
   Metodologia aplicada: <a href="https://www.notion.so/3017a548d79547968404dce96924ae1f?v=64667978a28c4eebbc316c552e049f75&pvs=4">Notion</a> e reuniões semanais<br>
 </p>
 
+
+### Sistema Coffe Shop
+
+Um café oferece diversos serviços aos seus clientes, como venda de café, chás, bolos e sanduíches, além de proporcionar um ambiente agradável para refeições rápidas e encontros sociais. Com o objetivo de melhorar o atendimento e a experiência dos clientes, o café deseja desenvolver um software que permita realizar pedidos de forma digital, seja por meio de um aplicativo móvel ou terminal na própria cafeteria.
+
+O software deve incluir um sistema de gestão de pedidos para a equipe do café, facilitando o acompanhamento e preparo dos itens solicitados. Além disso, deve ser integrado com o sistema de pagamento da cafeteria, permitindo transações rápidas e seguras. Os clientes terão a possibilidade de personalizar seus pedidos, escolhendo opções de ingredientes e especificações adicionais.
+
+Para incentivar a fidelidade dos clientes, o software deve incluir um sistema de fidelidade com recompensas e descontos para clientes frequentes. Os preços dos produtos serão definidos de acordo com suas características específicas, como tipo de café, tamanho da porção e ingredientes adicionais.
+
+Os requisitos não funcionais incluem a garantia de desempenho do sistema, capaz de lidar com um grande volume de pedidos, segurança das transações financeiras, usabilidade da interface do usuário e disponibilidade do sistema 24 horas por dia, 7 dias por semana.
+
+Com a implementação deste software, o café espera otimizar seu processo de atendimento, melhorar a experiência dos clientes e aumentar sua fidelidade, proporcionando um serviço de qualidade e eficiente.
+
+
 ### 1. Entendimento do Problema e Definição de Escopo:
 
 *Problema:*
