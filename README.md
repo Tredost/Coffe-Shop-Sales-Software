@@ -9,7 +9,6 @@
 </p>
   
 
-
 ### Sistema Coffe Shop
 
 Um café oferece diversos serviços aos seus clientes, como venda de café, chás, bolos e sanduíches, além de proporcionar um ambiente agradável para refeições rápidas e encontros sociais. Com o objetivo de melhorar o atendimento e a experiência dos clientes, o café deseja desenvolver um software que permita realizar pedidos de forma digital, seja por meio de um aplicativo móvel ou terminal na própria cafeteria.
