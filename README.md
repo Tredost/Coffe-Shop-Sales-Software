@@ -148,7 +148,8 @@ Com base nessas etapas, estamos prontos para prosseguir com o projeto de desenvo
 
 ### Diagrama de classes:
 
-[Diagrama de classe.pdf](https://github.com/user-attachments/files/15585909/Diagrama.de.classe.pdf)
+![Diagrama de classe](https://github.com/Tredost/Coffe-Shop-Sales-Software/assets/142420384/4eb0a032-225f-4f3d-b6e4-2c1e77928791)
+
 
 ### Diagrama de estados:
 
