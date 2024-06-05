@@ -141,6 +141,10 @@ Com base nessas etapas, estamos prontos para prosseguir com o projeto de desenvo
 
 #### Disponibilidade:
 4. Como cliente, espero que o sistema esteja disponível 24 horas por dia, 7 dias por semana, para que eu possa fazer pedidos a qualquer momento, sem restrições de horário.
+
+
+### Diagrama de estados:
+
 ![Diagrama de estado](https://github.com/Tredost/Coffe-Shop-Sales-Software/assets/142420384/24f22757-05b0-49f9-8926-d6a4f3c05c4c)
 
 ### Autores:
